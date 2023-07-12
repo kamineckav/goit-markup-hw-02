@@ -36,10 +36,11 @@ body {
 }
 
 .header-logo-studio {
-  color: #2e2f42;
+  color: var(--dark);
 }
 
 .header-nav-link {
+  color: var(--dark);
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
@@ -160,7 +161,7 @@ body {
 }
 
 .footer-logo-studio {
-  color: #2e2f42;
+  color: var(--light);
 }
 
 .footer-text {
